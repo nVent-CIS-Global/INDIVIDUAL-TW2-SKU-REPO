@@ -1,0 +1,1 @@
+This repo is for Enconnex 2.0 SKU project
