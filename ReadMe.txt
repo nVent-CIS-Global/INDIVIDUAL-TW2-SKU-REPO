@@ -1,1 +1,1 @@
-This repo is for INDIVIDUAL THRAX SKU project
+This repo is for INDIVIDUAL THRAX WAVE 2 SKU project
