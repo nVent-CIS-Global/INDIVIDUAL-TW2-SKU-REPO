@@ -81,7 +81,7 @@
 #define SPLUS_TYPE_QTY     13
 //#define NA_PDU_QTY			11
 #else
-#define Total_QTY		1
+#define Total_QTY		2
 #endif
 #define NEW_TYPE_QTY	0
 #define DEFAULT_SKUIDX	0xffffffff
