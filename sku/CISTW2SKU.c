@@ -51,8 +51,7 @@ static const struct pdu_config pduconfig =
 	P_T_UC, P_T_UW, P_T_LW, P_T_LC, P_T_RT, P_T_CD, P_T_CT,
 	P_P_UC, P_P_UW, P_P_LW, P_P_LC, P_P_RT, P_P_CD, P_P_CT} },
 	//outlet alarm
-	{ {O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR16},
-	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR13},
+	{ {O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR13},
 	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR16},
 	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR13},
 	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR16},
@@ -90,10 +89,11 @@ static const struct pdu_config pduconfig =
 	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR16},
 	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR13},
 	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR16},
-	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR13}},
+	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR13},
+	{O_T_UC, O_T_UW, O_T_LW, O_T_LC, O_T_RT, O_T_CD, O_T_CT, O_CUR16}},
 	//cb alarm
-	{ {C_C16_UC, C_C16_UW, C_C16_LW, C_C16_LC, C_C_RT, C_C_CD, C_C_CT, CB_POLE1, CB_CUR16},
-	{C_C16_UC, C_C16_UW, C_C16_LW, C_C16_LC, C_C_RT, C_C_CD, C_C_CT, CB_POLE1, CB_CUR16} }},
+	{ {C_C20_UC, C_C20_UW, C_C20_LW, C_C20_LC, C_C_RT, C_C_CD, C_C_CT, CB_POLE1, CB_CUR20},
+	{C_C20_UC, C_C20_UW, C_C20_LW, C_C20_LC, C_C_RT, C_C_CD, C_C_CT, CB_POLE1, CB_CUR20} }},
 	},
 
 };
